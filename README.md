@@ -13,4 +13,4 @@ This repository contains the checklist and evidence for **Task 2: Operating Syst
 4. **Service Hardening:** Identified unnecessary services to reduce attack surface.
 
 ## 📂 Files Included
-* `Task2_OS_Hardening_Melvin.pdf` - The detailed report with screenshots.
+* `Task2_OS_Hardening.pdf` - The detailed report with screenshots.
