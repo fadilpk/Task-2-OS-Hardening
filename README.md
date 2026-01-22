@@ -1,6 +1,6 @@
 # Task 2: OS Security Hardening (Windows)
 
-**Intern Name:** Melvin Fadil PK
+**Intern Name:** Mohammed Fadil PK
 **Date:** January 16, 2026
 
 ## 📄 Project Description
